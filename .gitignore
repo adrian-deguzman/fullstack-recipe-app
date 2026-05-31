@@ -1,0 +1,9 @@
+node_modules/
+jspm_packages/
+
+.env
+.env.local
+
+.expo/
+dist
+npm-debug.log*
